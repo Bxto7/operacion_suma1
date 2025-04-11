@@ -1,7 +1,10 @@
 # Sumador de Dos Números
 
 Este script en Python permite sumar dos números, ya sean enteros (`int`) o flotantes (`float`). Antes de realizar la operación, valida que ambos operandos sean numéricos. En caso contrario, muestra un mensaje de error indicando que la entrada no es válida.
-
+## Desarrollador
+| Apellidos y Nombres  | Rol           | GitHub                            |
+|----------------------|----------------|-----------------------------------|
+| Tovar Sanchez Carlos | Desarrollador | [Bxto7](https://github.com/Bxto7) |
 ## Requisitos previos
 
 - Python 3.x instalado en el sistema.
@@ -46,4 +49,3 @@ Error: La entrada no es un número válido.
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
 ```
-
